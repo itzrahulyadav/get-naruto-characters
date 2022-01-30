@@ -1,0 +1,25 @@
+{
+  "name": "get-naruto-characters",
+  "version": "1.0.0",
+  "description": "Returns a random Naruto character",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itzrahulyadav/get-naruto-characters.git"
+  },
+  "keywords": [
+    "naruto",
+    "anime",
+    "character",
+    "generator"
+  ],
+  "author": "Rahul yadav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itzrahulyadav/get-naruto-characters/issues"
+  },
+  "homepage": "https://github.com/itzrahulyadav/get-naruto-characters#readme"
+}
